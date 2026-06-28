@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1d0033/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部四
+  hash: sha256:753fed3570de885feea2655f2afda2dcac3de78d0edd6607684749ed59d8b745
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1d0033_WYG_000-1a, image: WYG0104/WYG0104-0341a.png}
+body:
+  text: 儀禮要義禮類二儀禮之屬提要臣等謹按儀禮要義五十卷宋魏了翁所撰九經要義之一於每篇各為條目而節取注疏録於下方與周易要義畧同盖其著書本例也儀禮一經最為難讀諸儒訓詁亦稀其著録于史者自喪服諸𫝊外隋志僅四家舊唐志亦僅四家新唐志僅三家今惟鄭元註賈公彦疏存耳鄭注古奥既或猝不易通賈疏文繁句􅃨雖詳贍而傷于蕪漫端緒亦不易明朱子語録謂其不甚分明葢亦有故了翁取而刪剟之分臚綱目條理秩然使品節度數之辨展卷即知不復以詞義轇轕為病其梳爬剔抉于學者最為有功雖所採不及他家而儀禮之訓詁備于鄭賈之所説鄭賈之精華備于此書之所取後來詮解雖多大抵以注疏為藍本則此書亦可云提其要矣乾隆四十三年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:524379d52fd48c6c675f0643b91eaca381b1fc78775768b16717951a8c2bc036
+metadata:
+  title: 儀禮要義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:08:43.365912'
+  source:
+    repository: kanripo
+    path: KR1d0033/KR1d0033_000.txt
+hash: sha256:305d879d5a3819abaa27fc9367358c9913e8df9bb7451dff13a7bdb8f1bfd7ab

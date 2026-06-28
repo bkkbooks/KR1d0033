@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1d0033/WYG/v1/juan/31
+seq: 31
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1d0033_WYG_031-1a, image: WYG0104/WYG0104-0650a.png}
+body:
+  text: 儀禮要義卷三十一宋魏了翁撰喪服經傳四原闕儀禮要義卷三十一
+  hash: sha256:a592a01d6125e577d9c3508432ba07ddc6cc89c27041fa1190dc4da22eb4bee1
+metadata:
+  title: 儀禮要義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:08:43.365912'
+  source:
+    repository: kanripo
+    path: KR1d0033/KR1d0033_031.txt
+hash: sha256:7ced3ff64332432b59af46d1653c2378b2f38adda31063e6c4cc0f5027dff382
